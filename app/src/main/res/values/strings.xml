@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobileDeveloperTest</string>
+    <string name="user">User</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="email">Correo</string>
+    <string name="pokemons">Pokemons</string>
+    <string name="logout">Cerrar sesión</string>
+</resources>
